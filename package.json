@@ -1,7 +1,7 @@
 {
   "name": "dci-javascript-example",
   "version": "1.0.0",
-  "description": "",
+  "description": "Example of DCI pattern written in JavaScript (Node.js v6)",
   "main": "index.js",
   "scripts": {
     "start": "node main.js",
