@@ -1,0 +1,13 @@
+{
+  "name": "dci-javascript-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "npm start"
+  },
+  "keywords": [],
+  "author": "Sergey Sova <i.am@lestad.net> (https://lestad.top)",
+  "license": "SEE LICENSE IN LICENSE"
+}
